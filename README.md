@@ -25,7 +25,7 @@
       
 <div align="center">
   <img height="165" align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayqueBrenno1&theme=aura">
-  <img height="200" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueBrenno1&layout=compact&hide_border=true&theme=aura">
+  <img height="165" align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KayqueBrenno1&theme=aura">
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KayqueBrenno1&theme=aura"/>
