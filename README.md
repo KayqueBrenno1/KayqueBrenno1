@@ -73,7 +73,6 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kayquebrennoferreira@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kayquekc_/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kayque-brenno/)
   
 </div>
